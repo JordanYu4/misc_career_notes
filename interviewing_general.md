@@ -21,4 +21,11 @@
 - Keep it simple and to the point 
 - Don't convey training as lack of experience – instead, "sharpening skills" 
 
+- Points of improvement 
+  - Volume 
+  - Enthusiasm 
+  - Emphasis 
+  - Smile 
+  - Slow down 
+  - Periods 
 
