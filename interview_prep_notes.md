@@ -1,0 +1,6 @@
+- Ruby on Rails architecture 
+- Resume notes 
+  - MongoDB
+  - jQuery 
+  - JavaScript 
+  - SQL queries 
